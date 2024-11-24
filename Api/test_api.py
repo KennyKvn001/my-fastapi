@@ -3,7 +3,7 @@ import json
 
 
 def test_api():
-    base_url = "http://localhost:8000"
+    base_url = "https://my-fastapi-wxqz.onrender.com"
 
     # Test 1: Health Check
     print("\nTesting Health Check endpoint...")
